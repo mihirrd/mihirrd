@@ -13,45 +13,6 @@ At [Helpshift](https://www.helpshift.com/), I’ve led initiatives that include:
 
 ---
 
-## Projects and Open Source Contribution
-
-
-### [Pensieve](https://github.com/mihirrd/pensieve)
-Pensieve is a durable, in-memory key–value store written in Rust. It uses an LRU (Least Recently Used) cache for eviction and exposes a HTTP REST API via the Axum. The name Pensieve comes from one of the most fascinating magical objects in the Wizarding World
-
-- HTTP REST APIs
-- Write-ahead logs for durability
-- Thread-safe via <code>Arc<Mutex<...>></code>
-- Multi-node cluster support with Docker
-- Inter-node heartbeat system for failure detection
-
-
-### [Clj-deepwalk](https://github.com/mihirrd/clj-deepwalk)
-clj-deepwalk is a Graph Embedding library written in Clojure. It provides handy APIs to generate vector embeddings for complex Graphs.
-clj-deepwalk has also been recognized in [Clojure Deref](https://clojure.org/news/2025/01/17/deref)
-
-- Implements [Deepwalk](https://arxiv.org/abs/1403.6652) for learning graph node embeddings
-- Enables vector-based reasoning and similarity search over graph structures
-- Lightweight, modular, and easy to extend for research or production use
-
-
-### [Ollama MCP Client](https://github.com/mihirrd/ollama-mcp-client)
-Highly modular and extensible client for MCP tools in Ollama models.
-
-- Seamless integration between MCP servers and Ollama language models.
-- Native support for Git operations via MCP Git server, with support for extending multiple MCP servers.
-- Rich, interactive Terminal UI for a smooth user experience.
-
-### [AIde](https://github.com/mihirrd/aide)
-Aide acts like an on-demand tutor for those preparing for coding interviews.
-
-- Generates coding challenges using OpenAI
-- Evaluates user-submitted solutions automatically
-- Provides detailed, actionable feedback
-- Helps developers sharpen coding skills through interactive practice
-
----
-
 ## Tech Stack
 
 Below are the technologies I have been working on/have worked on in the past.
