@@ -14,10 +14,6 @@ At [Helpshift](https://www.helpshift.com/), I’ve led initiatives that include:
 ---
 
 ## Tech Stack
-
-Below are the technologies I have been working on/have worked on in the past.
-No tigh dependency on any particular tech stack!
-
 - Java, Clojure, Python, C++, Rust, Javascript, SQL
 - MongoDB, Postgres, YugabyteDB, Kafka, Redis, Elasticsearch
 - Grafana, Kibana
